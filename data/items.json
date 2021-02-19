@@ -1,0 +1,31 @@
+[{
+    "name": "Cobra Kai Dojo T-Shirt",
+    "image": {
+        "url": "https://cdn.media.amplience.net/i/amp_multihub/cobrakai",
+        "dimensions": {
+            "w": 1046,
+            "h": 1080
+        }
+    },
+    "price": 1599
+},{
+    "name": "Miyagi Do Dojo T-Shirt",
+    "image": {
+        "url": "https://cdn.media.amplience.net/i/amp_multihub/miyagido",
+        "dimensions": {
+            "w": 900,
+            "h": 1200
+        }
+    },
+    "price": 1599
+},{
+    "name": "Eagle Fang Dojo T-Shirt",
+    "image": {
+        "url": "https://cdn.media.amplience.net/i/amp_multihub/eaglefang",
+        "dimensions": {
+            "w": 1000,
+            "h": 1000
+        }
+    },
+    "price": 1599
+}]

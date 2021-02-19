@@ -1,0 +1,42 @@
+[
+    {
+        "name": {
+            "en": "Cobra Kai Dojo T"
+        },
+        "slug": {
+            "en": "cobra-kai-dojo-t"
+        },
+        "key": "cobra-kai-dojo-t",
+        "productType": {
+            "typeId": "product-type",
+            "id": "0fd9b886-ad37-413e-918a-6cc3ee273ea2"
+        },
+        "masterVariant": {
+            "id": 1,
+            "sku": "cobra-kai-dojo-t",
+            "prices": [
+                {
+                    "value": {
+                        "type": "centPrecision",
+                        "currencyCode": "USD",
+                        "centAmount": 1599,
+                        "fractionDigits": 2
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://9134ccc73e3a3054a4ac-73dc59cba992c68a922b57bfc8901adc.ssl.cf1.rackcdn.com/cobrakai-3eZinjOW.jpeg",
+                    "dimensions": {
+                        "w": 1046,
+                        "h": 1080
+                    }
+                }
+            ]
+        },
+       "taxCategory": {
+            "typeId": "tax-category",
+            "id": "09359ff0-1f7b-401b-97dc-adef798e9ef0"
+        }
+    }
+]
